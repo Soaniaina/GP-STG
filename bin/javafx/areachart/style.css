@@ -1,0 +1,42 @@
+
+/**
+ * Couleur du point sur la legende du premier areachart
+ */
+.default-color0.chart-area-symbol {
+		-fx-background-color: #ff0000, #ff0000;
+}
+
+/**
+ * Couleur du point sur la legende du second areachart
+ */
+.default-color1.chart-area-symbol {
+		-fx-background-color: #0610cc, #0610cc;
+}
+
+/**
+ * Couleur du ligne du premier areachart
+ */
+.default-color0.chart-series-area-line {
+		-fx-stroke: #ff0000;
+}
+
+/**
+ * Couleur du ligne du second areachart
+ */
+.default-color1.chart-series-area-line {
+		-fx-stroke: #0610cc;
+}
+
+/**
+ * Couleur de la background du premier areachart
+ */
+.default-color0.chart-series-area-fill {
+		-fx-fill: #ffa07a55;
+}
+
+/**
+ * Couleur de la background du second areachart
+ */
+.default-color1.chart-series-area-fill {
+		-fx-fill: #d8bfd855;
+}
